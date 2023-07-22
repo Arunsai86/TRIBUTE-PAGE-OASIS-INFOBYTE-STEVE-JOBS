@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+}
+
+.container {
+    background-color: #000000;
+    padding: 20px;
+    color: #ffffff;
+}
+
+.title {
+    font-family: "Roboto";
+    font-size: 30px;
+}
+
+.sub-title {
+    color: #fbfbfb;
+}
+
+.bio-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.bio-sub-card {
+    width: 70%;
+}
+
+.bio {
+    font-family: "Roboto";
+}
